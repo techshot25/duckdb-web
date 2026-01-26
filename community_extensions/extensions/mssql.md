@@ -53,8 +53,8 @@ docs:
     - Create table as select (CTAS) not supported
     - No transaction support
 
-extension_star_count: 16
-extension_star_count_pretty: 16
+extension_star_count: 17
+extension_star_count_pretty: 17
 extension_download_count: 388
 extension_download_count_pretty: 388
 image: '/images/community_extensions/social_preview/preview_community_extension_mssql.png'
